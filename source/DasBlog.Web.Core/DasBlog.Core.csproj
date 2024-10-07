@@ -21,6 +21,7 @@
     <ProjectReference Include="..\newtelligence.DasBlog.Runtime\newtelligence.DasBlog.Runtime.csproj" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="csla" Version="7.0.5" />
     <PackageReference Include="IdentityServer4" Version="4.1.2" />
     <PackageReference Include="Microsoft.Extensions.Options" Version="8.0.0" />
     <PackageReference Include="NodaTime" Version="3.1.9" />
